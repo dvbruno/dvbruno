@@ -5,7 +5,7 @@
 
 - 🔥 Student Web Developer
 
-- 🔭 I’m currently working at [Alterdata]
+<!-- - 🔭 I’m currently working at [Alterdata] -->
 
 <!--- ▶️ I (not) regularly post videos on [youtube.com/dvbruno](https://youtube.com/dvbruno)-->
 
