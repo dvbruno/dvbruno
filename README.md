@@ -1,7 +1,7 @@
 <img align="right" height="590em" src="https://github.com/dvbruno/dvbruno/blob/85be256ddbab1cba7419c6ee8133f50f7158c39b/dvbruno.jpg"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Tech</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dvbruno&color=red" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dvbruno&color=green" alt="Profile views" /> </p>
 
 - 🔥 Student Web Developer
 
